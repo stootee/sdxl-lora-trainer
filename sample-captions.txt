@@ -1,0 +1,57 @@
+# Sample Captions for LoRA Training
+# Each line shows format: filename | caption
+# Replace "ohwx" with your chosen trigger word
+
+# Professional/Headshots
+headshot_01.jpg | ohwx person, professional headshot, neutral expression, studio lighting, gray background, wearing dark suit jacket
+headshot_02.jpg | ohwx person, corporate portrait, slight smile, soft lighting, white background, business attire
+headshot_03.jpg | ohwx person, professional photo, serious expression, dramatic lighting, black background
+
+# Casual Portraits
+casual_01.jpg | ohwx person, casual portrait, relaxed smile, natural daylight, outdoor setting, wearing casual t-shirt
+casual_02.jpg | ohwx person, candid photo, laughing, golden hour lighting, park background, casual clothing
+casual_03.jpg | ohwx person, lifestyle portrait, coffee shop setting, warm indoor lighting, cozy sweater
+
+# Close-up Face
+closeup_01.jpg | ohwx person, close-up face portrait, direct eye contact, ring light catchlights, minimal makeup
+closeup_02.jpg | ohwx person, face detail shot, three-quarter view, natural skin texture, soft focus background
+closeup_03.jpg | ohwx person, headshot closeup, profile view, window light, contemplative expression
+
+# Full Body
+fullbody_01.jpg | ohwx person, full body portrait, standing pose, urban street background, casual streetwear
+fullbody_02.jpg | ohwx person, full length shot, seated on chair, studio setting, formal attire
+fullbody_03.jpg | ohwx person, environmental portrait, walking pose, city background, business casual outfit
+
+# Different Angles
+angle_front.jpg | ohwx person, front-facing portrait, symmetrical composition, even lighting
+angle_34left.jpg | ohwx person, three-quarter view facing left, slight head tilt, rembrandt lighting
+angle_34right.jpg | ohwx person, three-quarter view facing right, natural expression, soft side lighting
+angle_profile.jpg | ohwx person, side profile portrait, dramatic silhouette, backlit, artistic composition
+
+# Different Lighting
+lighting_natural.jpg | ohwx person, portrait photo, natural daylight, outdoor shade, soft shadows
+lighting_studio.jpg | ohwx person, studio portrait, three-point lighting, professional setup, clean background
+lighting_dramatic.jpg | ohwx person, dramatic portrait, strong shadows, moody lighting, dark background
+lighting_golden.jpg | ohwx person, golden hour portrait, warm tones, sun flare, outdoor setting
+
+# Different Expressions
+expression_neutral.jpg | ohwx person, neutral expression, relaxed face, direct gaze, clean background
+expression_smile.jpg | ohwx person, genuine smile, happy expression, bright eyes, friendly demeanor
+expression_serious.jpg | ohwx person, serious expression, intense gaze, professional look, minimal smile
+expression_thoughtful.jpg | ohwx person, contemplative expression, looking away, pensive mood, soft lighting
+
+# Different Backgrounds
+bg_white.jpg | ohwx person, portrait on white background, clean studio shot, even lighting
+bg_nature.jpg | ohwx person, portrait with nature background, green foliage, outdoor setting
+bg_urban.jpg | ohwx person, urban portrait, city background, street photography style
+bg_indoor.jpg | ohwx person, indoor portrait, home setting, warm ambient lighting, bokeh background
+
+# Tips for Writing Your Own Captions:
+# 1. Always start with your trigger word + "person"
+# 2. Describe the type of shot (portrait, headshot, full body)
+# 3. Include lighting description
+# 4. Mention background/setting
+# 5. Note clothing if relevant
+# 6. Describe expression if notable
+# 7. Keep captions 10-30 words
+# 8. Be consistent with terminology across all captions
