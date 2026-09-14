@@ -2,6 +2,17 @@
 
 Train LoRA models for SDXL to capture your likeness for use in image generation pipelines.
 
+## Base Model
+
+By default this trainer pulls **RealVisXL V5.0** (`SG161222/RealVisXL_V5.0`) from
+Hugging Face — a photorealistic SDXL checkpoint. Avoid training against
+anime/Pony-derived checkpoints (e.g. "WAI ANI Pony") for a photorealistic
+likeness: they bias faces toward a stylized look and are captioned with
+danbooru tags rather than the natural-language captions used here, which
+compounds the problem. Set `MODEL_SOURCE` to `base_sdxl` for vanilla SDXL 1.0
+instead, or `drive_model` to point at a checkpoint already staged in your
+Google Drive.
+
 ## Quick Start
 
 1. **Prepare your training images** in Google Drive with matching caption files:
